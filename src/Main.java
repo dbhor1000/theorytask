@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        String line = "1234567";
+        String line = "123456789";
 
 
         StringBuilder lineSb = new StringBuilder(line);
